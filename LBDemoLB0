@@ -131,10 +131,10 @@ input {
 <ul id="myUL">
   <li>CoreStack Demo</li>
   <li class="checked">Website SYNC</li>
-  <li>Update CE-Sandbox Enviroment</li>
-  <li>Create Tutorial Video</li>
-  <li>Hit The Gym</li>
-  <li>Grab Grocery List</li>
+  <li>Weekly staging update</li>
+  <li>Build webinar content</li>
+  <li>Pickup kids from school</li>
+  <li>Oil change</li>
 </ul>
 
 <script>
